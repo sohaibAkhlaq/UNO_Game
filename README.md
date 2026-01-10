@@ -1,54 +1,50 @@
-# 🎮 UNO Game (C++ Console) 🃏
+# UNO Game (C++ Console Application)
 
-<p align="center">
-  <img src="preview/UNO_preveiw.png" alt="UNO Game Preview" width="400"/>
-</p>
+## Overview
+This project is a console-based implementation of the UNO card game,
+developed using C++ as part of the Programming Fundamentals course.
 
-## 📌 Description
-This is a simple console-based UNO game implemented in C++. The game is designed to run in the terminal and follows basic UNO rules. It is a single-file implementation with all the logic contained within `main.cpp`, and the results of the game are stored in `result.txt`.
+The game runs entirely in the terminal and follows the basic rules of UNO.
+It focuses on core programming concepts such as control structures,
+functions, file handling, and data management.
 
-## ✨ Features
-- 🎭 Two-player Game.
-- 🔄 Basic UNO rules including draw, skip, reverse, and wild cards.
-- ⏳ Turn-based gameplay in the console.
-- 📝 Saves game results to `result.txt`.
+## Features
+- Two-player console-based gameplay
+- Implementation of core UNO rules (draw, skip, reverse, wild cards)
+- Turn-based game flow
+- Game results stored in a text file
 
-## 🛠 Installation
+## Technologies Used
+- Language: C++
+- Environment: Console / Terminal
+
+## File Structure
+- main.cpp  
+  Contains the complete game logic and implementation.
+- result.txt  
+  Stores the results of completed game sessions.
+
+## How to Run
 1. Clone the repository:
-   ```sh
-   git clone https://github.com/M-Hasaam/UNO_Game.git
-   ```
-2. Navigate to the project directory:
-   ```sh
-   cd UNO_Game
-   ```
-3. Compile the source code using a C++ compiler:
-   ```sh
-   g++ main.cpp -o uno_game
-   ```
-
-## 🚀 Usage
-1. Run the executable:
-   ```sh
-   ./uno_game
-   ```
-2. Follow the on-screen instructions to play.
-3. The game results will be saved in `result.txt`.
-
-## ⚙ Requirements
-- 🖥 C++ compiler (GCC, Clang, or MSVC)
-- 🏁 Windows
-
-## 📂 File Structure
-- `main.cpp` 📜: Contains all the game logic.
-- `result.txt` 📝: Stores the results of completed games.
-
-## 🚧 Future Enhancements
-- 🤖 Implement AI for single-player mode.
-- 🎨 Add graphical interface support.
-- 🔥 Improve game logic with more UNO rules.
-
-## 👨‍💻 Author
-Developed by [Muhammad Hasaam].
+git clone https://github.com/your-username/UNO_Game.git
+2. Navigate to the project directory.
+3. Compile the program:
+g++ main.cpp -o uno_game
+4. Run the executable:
+./uno_game
 
 
+## Learning Outcomes
+- Strengthened understanding of programming fundamentals
+- Practice with conditional logic and loops
+- Experience with file handling in C++
+- Improved problem-solving and logic-building skills
+
+## Future Improvements
+- Single-player mode with AI
+- Better rule validation
+- Improved code modularization
+
+## Contributors
+- Sohaib Akhlaq  
+- Muhammad Hasaam
