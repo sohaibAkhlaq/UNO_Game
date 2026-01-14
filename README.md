@@ -1,4 +1,5 @@
 # UNO Game (C++ Console Application)
+<img width="234" height="224" alt="image" src="https://github.com/user-attachments/assets/d70ccf11-7e86-40ed-9ae2-84eaf0c593f0" />
 
 ## Overview
 This project is a console-based implementation of the UNO card game,
