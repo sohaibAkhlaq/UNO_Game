@@ -27,7 +27,7 @@ functions, file handling, and data management.
 
 ## How to Run
 1. Clone the repository:
-git clone https://github.com/your-username/UNO_Game.git
+git clone https://github.com/sohaibAkhlaq/UNO_Game.git
 2. Navigate to the project directory.
 3. Compile the program:
 g++ main.cpp -o uno_game
